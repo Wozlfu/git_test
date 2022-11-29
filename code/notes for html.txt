@@ -1,0 +1,8 @@
+html tags:
+<h1> to <h6>
+<strong> BOLD </strong>
+<em> Italic </em>
+<!-- Commenting -->
+<ul> unordered list
+<ol> ordered list
+<li> listed items
